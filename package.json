@@ -1,0 +1,16 @@
+{
+  "name": "@backlight-dev/view-schedule-ggx6h.figma-tokens-l45uq31i",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve BvDFo3Vu8GjTaPvCTc2T --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.9.4",
+    "lit": "^2.2.2"
+  },
+  "dependencies": {}
+}
